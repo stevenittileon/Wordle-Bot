@@ -21,6 +21,7 @@ A Python-powered bot that solves Wordle puzzles using logic, frequency analysis,
 
 - Python 3
 - Jupyter Notebook
+- Prompt Engineering
 - NLTK or custom word frequency dataset (if applicable)
 - Basic NLP & pattern matching
 
@@ -70,13 +71,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 MIT License
 
-⸻
+Copyright (c) 2025 Steven Itti Leon
 
-© 2025 Steven Itti Leon
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
----
+The above copyright notice and this permission notice shall be included in allcopies or substantial portions of the Software.
 
-Let me know if you'd like to:
-- Add installation instructions for dependencies.
-- Include a GUI/CLI interface in the future.
-- Add the actual performance statistics of your bot over multiple games.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
